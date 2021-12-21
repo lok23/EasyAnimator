@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Assignment8Remastered:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assignment8Remastered_jar</output-path>
+    <root id="archive" name="Assignment8Remastered.jar">
+      <element id="module-output" name="Assignment8Remastered" />
+    </root>
+  </artifact>
+</component>
