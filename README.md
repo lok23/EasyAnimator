@@ -12,12 +12,12 @@ This project takes in user input (speed, text input, output type) and text input
 ## 2) SVG which can be run in an SVG viewer and viewed visually
 ![svg](https://user-images.githubusercontent.com/45181211/146990391-4a9f7d66-02f7-4cc1-a139-b5dd616f7f94.PNG)
 
-## 3) A GUI which runs the animation
-https://user-images.githubusercontent.com/45181211/146989570-eb33f8e3-4ffb-4f05-aecb-51a77422dfbe.mp4
-
 <br>
 
 https://user-images.githubusercontent.com/45181211/146990646-3f72671b-4212-4954-be88-1d60046c07b3.mp4
+
+## 3) A GUI which runs the animation
+https://user-images.githubusercontent.com/45181211/146989570-eb33f8e3-4ffb-4f05-aecb-51a77422dfbe.mp4
 
 ## Purpose
 The purpose of this project is to demonstrate our mastery of the MVC (Model View Controller) pattern. 
