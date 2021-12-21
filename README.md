@@ -6,14 +6,14 @@ https://user-images.githubusercontent.com/45181211/147004197-f694887d-5905-4e9b-
 
 This project takes in user input (speed, text input, output type) and text input (shapes, colors, sizes, movements) and can produce 1 of 3 outputs:
 
-## 1) A GUI which runs the animation
-https://user-images.githubusercontent.com/45181211/146989570-eb33f8e3-4ffb-4f05-aecb-51a77422dfbe.mp4
-
-## 2) Plain text output describing their movements
+## 1) Plain text output describing their movements
 ![text](https://user-images.githubusercontent.com/45181211/146989738-2f159468-39a3-4a59-9216-dd5fa5f5abb7.PNG)
 
-## 3) SVG which can be run in an SVG viewer and viewed visually
+## 2) SVG which can be run in an SVG viewer and viewed visually
 ![svg](https://user-images.githubusercontent.com/45181211/146990391-4a9f7d66-02f7-4cc1-a139-b5dd616f7f94.PNG)
+
+## 3) A GUI which runs the animation
+https://user-images.githubusercontent.com/45181211/146989570-eb33f8e3-4ffb-4f05-aecb-51a77422dfbe.mp4
 
 <br>
 
