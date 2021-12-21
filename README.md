@@ -1,6 +1,8 @@
 # EasyAnimator
+https://user-images.githubusercontent.com/45181211/147004188-6cf93f07-837d-4cfc-a060-88ef385d5cdf.mp4
 
-https://course.ccs.neu.edu/cs5004/big-bang-big-crunch.gif
+https://user-images.githubusercontent.com/45181211/147004197-f694887d-5905-4e9b-a635-dd8222a23381.mp4
+
 
 This project takes in user input (speed, text input, output type) and text input (shapes, colors, sizes, movements) and can produce 1 of 3 outputs:
 
