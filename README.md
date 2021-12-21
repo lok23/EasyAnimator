@@ -1,4 +1,7 @@
 # EasyAnimator
+
+https://course.ccs.neu.edu/cs5004/big-bang-big-crunch.gif
+
 This project takes in user input (speed, text input, output type) and text input (shapes, colors, sizes, movements) and can produce 1 of 3 outputs:
 
 ## 1) A GUI which runs the animation
