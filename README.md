@@ -10,7 +10,7 @@ This project takes in user input (speed, text input, output type) and text input
 
 https://user-images.githubusercontent.com/45181211/146990646-3f72671b-4212-4954-be88-1d60046c07b3.mp4
 
-## 3) A GUI which runs the animation.
+## 3) A GUI which runs the animation
 https://user-images.githubusercontent.com/45181211/146989570-eb33f8e3-4ffb-4f05-aecb-51a77422dfbe.mp4
 
 ## Purpose
