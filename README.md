@@ -3,8 +3,8 @@ https://user-images.githubusercontent.com/45181211/147004188-6cf93f07-837d-4cfc-
 
 https://user-images.githubusercontent.com/45181211/147004197-f694887d-5905-4e9b-a635-dd8222a23381.mp4
 
-
-This project takes in user input (speed, text input, output type) and text input (shapes, colors, sizes, movements) and can produce 1 of 3 outputs:
+# What is this?
+This is the final project for CS 5004 Object Oriented Design (OOD). The purpose of this final project is to demonstrate our understanding of Object Oriented Design Principles and the MVC pattern. This program takes in user input (speed, text input, output type), text input (shapes, colors, sizes, movements) and can produce 1 of 3 outputs:
 
 ## 1) Plain text output describing their movements
 ![text](https://user-images.githubusercontent.com/45181211/146989738-2f159468-39a3-4a59-9216-dd5fa5f5abb7.PNG)
