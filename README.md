@@ -38,3 +38,11 @@ java -jar Assignment8Remastered.jar -in smalldemo.txt -view text -out out -speed
 
 java -jar Assignment8Remastered.jar -in buildings.txt -view visual -out out -speed 50
 
+## Credits
+All credits to:
+
+https://www.youtube.com/watch?v=GvTZ2Huo0T4
+
+https://www.youtube.com/watch?v=M4DJTP6TG94&list=PLI2uiPwn6f39OGDEv5wA_d9yhHYlNye06
+
+And countless stackoverflow answers
